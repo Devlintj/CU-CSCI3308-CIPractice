@@ -2,5 +2,3 @@ language: C
 script: make dep && make && make test
 compiler: 
 	-gcc
-target_name: dependencies
-		command
