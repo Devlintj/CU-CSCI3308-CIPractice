@@ -1,0 +1,6 @@
+language: C
+script: make && make test
+compiler: 
+	-gcc
+target_name: dependencies
+		command
